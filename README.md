@@ -13,6 +13,6 @@ After running the script (which may take a minute), a "svg" folder is created wi
 * Symbols as PNG files.
 
 ## Copyright and license
-* [svgwrite](https://github.com/mozman/svgwrite) - [MIT License](https://github.com/mozman/svgwrite/blob/master/LICENSE.TXT)
-* [Code snippet from StackOverflow](https://stackoverflow.com/a/20380514) by [Fred the Fantastic](https://stackoverflow.com/users/2372270/fred-the-fantastic) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)
+* [svgwrite](https://github.com/mozman/svgwrite) by [mozman](https://github.com/mozman) - [MIT License](https://github.com/mozman/svgwrite/blob/master/LICENSE.TXT)
+* [Code snippet from StackOverflow](https://stackoverflow.com/a/20380514) by [Fred the Fantastic](https://stackoverflow.com/users/2372270/fred-the-fantastic) - [CC BY-SA 4.0](https://stackoverflow.com/legal/terms-of-service/public#licensing)
 * [Code snippet from Wikipedia](https://fr.wikipedia.org/wiki/Dobble#Algorithme_de_g%C3%A9n%C3%A9ration) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)
